@@ -1,0 +1,71 @@
+c:\users\reginaldo\documents\visual studio 2013\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\ControleHorasTrabalhadas.exe
+c:\users\reginaldo\documents\visual studio 2013\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\ControleHorasTrabalhadas.pdb
+c:\users\reginaldo\documents\visual studio 2013\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\ControleHorasTrabalhadas.csprojResolveAssemblyReference.cache
+c:\users\reginaldo\documents\visual studio 2013\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.FormTeste.resources
+c:\users\reginaldo\documents\visual studio 2013\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.Properties.Resources.resources
+c:\users\reginaldo\documents\visual studio 2013\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\ControleHorasTrabalhadas.csproj.GenerateResource.Cache
+c:\users\reginaldo\documents\visual studio 2013\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\ControleHorasTrabalhadas.exe
+c:\users\reginaldo\documents\visual studio 2013\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\ControleHorasTrabalhadas.pdb
+c:\users\reginaldo\documents\visual studio 2013\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\badgeCreator.dll
+c:\users\reginaldo\documents\visual studio 2013\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\badgeCreator.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\ControleHorasTrabalhadas.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\ControleHorasTrabalhadas.csproj.ResolveComReference.cache
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.Main.resources
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.Properties.Resources.resources
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\ControleHorasTrabalhadas.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.Badge.resources
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.Cadastre.resources
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.Config.resources
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.Confirmation.resources
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.Relatorio.resources
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\Resources\anonimato.jpg
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\banco-dados.sql
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\startup.ico
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\ControleHorasTrabalhadas.exe.config
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\ControleHorasTrabalhadas.exe
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\ControleHorasTrabalhadas.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\BadgeCreator.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\Controllers.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\HttpUtils.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\MySql.Data.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\ToFullText.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\BadgeCreator.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\Controllers.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\HttpUtils.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\ToFullText.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\ControleHorasTrabalhadas.exe
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\ControleHorasTrabalhadas.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\SystemTime.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\SystemTime.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\ControleHorasTrabalhadas.exe.config
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\ControleHorasTrabalhadas.csproj.ResolveComReference.cache
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\ControleHorasTrabalhadas.exe
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\ControleHorasTrabalhadas.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\Resources\anonimato.jpg
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\banco-dados.sql
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\startup.ico
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\ControleHorasTrabalhadas.exe
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\ControleHorasTrabalhadas.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\BadgeCreator.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\Controllers.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\HttpUtils.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\SystemTime.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\BadgeCreator.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\Controllers.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\HttpUtils.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\SystemTime.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\ToFullText.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\ControleHorasTrabalhadas.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.Badge.resources
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.Cadastre.resources
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.Config.resources
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.Confirmation.resources
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.Main.resources
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.Properties.Resources.resources
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.Relatorio.resources
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\obj\Debug\ControleHorasTrabalhadas.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\MySql.Data.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\ControleHorasTrabalhadas\bin\Debug\Interop.IWshRuntimeLibrary.dll

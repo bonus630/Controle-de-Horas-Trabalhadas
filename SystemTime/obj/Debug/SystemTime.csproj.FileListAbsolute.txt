@@ -1,0 +1,14 @@
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\SystemTime\bin\Debug\SystemTime.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\SystemTime\bin\Debug\SystemTime.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\SystemTime\bin\Debug\HttpUtils.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\SystemTime\bin\Debug\HttpUtils.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\SystemTime\obj\Debug\SystemTime.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\SystemTime\obj\Debug\SystemTime.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\SystemTime\obj\Debug\SystemTime.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\SystemTime\bin\Debug\SystemTime.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\SystemTime\bin\Debug\SystemTime.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\SystemTime\bin\Debug\HttpUtils.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\SystemTime\bin\Debug\HttpUtils.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\SystemTime\obj\Debug\SystemTime.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\SystemTime\obj\Debug\SystemTime.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\SystemTime\obj\Debug\SystemTime.pdb

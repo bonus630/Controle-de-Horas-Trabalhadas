@@ -1,0 +1,12 @@
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\Controllers\bin\Debug\Controllers.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\Controllers\obj\Debug\Controllers.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\Controllers\obj\Debug\Controllers.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\Controllers\bin\Debug\Controllers.dll.config
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\Controllers\bin\Debug\Controllers.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\Controllers\bin\Debug\MySql.Data.dll

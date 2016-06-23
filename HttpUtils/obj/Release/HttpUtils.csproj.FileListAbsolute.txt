@@ -1,0 +1,10 @@
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\HttpUtils\bin\Release\HttpUtils.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\HttpUtils\bin\Release\HttpUtils.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\HttpUtils\obj\Release\HttpUtils.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\HttpUtils\obj\Release\HttpUtils.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\HttpUtils\obj\Release\HttpUtils.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\HttpUtils\bin\Release\HttpUtils.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\HttpUtils\bin\Release\HttpUtils.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\HttpUtils\obj\Release\HttpUtils.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\HttpUtils\obj\Release\HttpUtils.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\HttpUtils\obj\Release\HttpUtils.pdb

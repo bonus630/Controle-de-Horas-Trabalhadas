@@ -1,0 +1,9 @@
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\HttpUtils\bin\Debug\HttpUtils.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\HttpUtils\bin\Debug\HttpUtils.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\HttpUtils\obj\Debug\HttpUtils.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\HttpUtils\obj\Debug\HttpUtils.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\HttpUtils\bin\Debug\HttpUtils.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\HttpUtils\bin\Debug\HttpUtils.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\HttpUtils\obj\Debug\HttpUtils.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\HttpUtils\obj\Debug\HttpUtils.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\HttpUtils\obj\Debug\HttpUtils.pdb

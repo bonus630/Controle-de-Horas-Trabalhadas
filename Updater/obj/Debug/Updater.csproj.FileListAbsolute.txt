@@ -1,0 +1,10 @@
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\Updater\bin\Debug\ControleHorasTrabalhadasUpdater.exe.config
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\Updater\bin\Debug\ControleHorasTrabalhadasUpdater.exe
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\Updater\bin\Debug\ControleHorasTrabalhadasUpdater.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\Updater\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\Updater\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\Updater\obj\Debug\Updater.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\Updater\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.Updater.Properties.Resources.resources
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\Updater\obj\Debug\Updater.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\Updater\obj\Debug\ControleHorasTrabalhadasUpdater.exe
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\Updater\obj\Debug\ControleHorasTrabalhadasUpdater.pdb

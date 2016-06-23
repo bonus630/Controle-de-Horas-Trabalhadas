@@ -1,0 +1,16 @@
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\badgeCreator\bin\Release\Resources\anonimato.jpg
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\badgeCreator\bin\Release\BadgeCreator.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\badgeCreator\bin\Release\BadgeCreator.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\badgeCreator\obj\Release\br.corp.bonus630.ControleHorasTrabalhadas.badgeCreator.Imagens.resources
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\badgeCreator\obj\Release\BadgeCreator.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\badgeCreator\obj\Release\BadgeCreator.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\badgeCreator\obj\Release\BadgeCreator.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\badgeCreator\obj\Release\BadgeCreator.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\badgeCreator\bin\Release\Resources\anonimato.jpg
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\badgeCreator\bin\Release\BadgeCreator.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\badgeCreator\bin\Release\BadgeCreator.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\badgeCreator\obj\Release\BadgeCreator.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\badgeCreator\obj\Release\br.corp.bonus630.ControleHorasTrabalhadas.badgeCreator.Imagens.resources
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\badgeCreator\obj\Release\BadgeCreator.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\badgeCreator\obj\Release\BadgeCreator.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\badgeCreator\obj\Release\BadgeCreator.pdb

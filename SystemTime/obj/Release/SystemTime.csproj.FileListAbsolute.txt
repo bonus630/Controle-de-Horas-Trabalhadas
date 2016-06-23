@@ -1,0 +1,14 @@
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\SystemTime\bin\Release\SystemTime.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\SystemTime\bin\Release\SystemTime.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\SystemTime\bin\Release\HttpUtils.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\SystemTime\bin\Release\HttpUtils.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\SystemTime\obj\Release\SystemTime.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\SystemTime\obj\Release\SystemTime.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\SystemTime\obj\Release\SystemTime.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\SystemTime\bin\Release\SystemTime.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\SystemTime\bin\Release\SystemTime.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\SystemTime\bin\Release\HttpUtils.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\SystemTime\bin\Release\HttpUtils.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\SystemTime\obj\Release\SystemTime.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\SystemTime\obj\Release\SystemTime.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\SystemTime\obj\Release\SystemTime.pdb

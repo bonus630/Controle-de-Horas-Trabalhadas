@@ -1,0 +1,21 @@
+c:\users\reginaldo\documents\visual studio 2013\Projects\ControleHorasTrabalhadas\badgeCreator\bin\Debug\badgeCreator.dll
+c:\users\reginaldo\documents\visual studio 2013\Projects\ControleHorasTrabalhadas\badgeCreator\bin\Debug\badgeCreator.pdb
+c:\users\reginaldo\documents\visual studio 2013\Projects\ControleHorasTrabalhadas\badgeCreator\obj\Debug\badgeCreator.dll
+c:\users\reginaldo\documents\visual studio 2013\Projects\ControleHorasTrabalhadas\badgeCreator\obj\Debug\badgeCreator.pdb
+C:\Users\Reginaldo\documents\visual studio 2013\Projects\ControleHorasTrabalhadas\badgeCreator\obj\Debug\badgeCreator.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\badgeCreator\bin\Debug\Resources\anonimato.jpg
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\badgeCreator\bin\Debug\BadgeCreator.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\badgeCreator\bin\Debug\BadgeCreator.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\badgeCreator\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.badgeCreator.Imagens.resources
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\badgeCreator\obj\Debug\BadgeCreator.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\badgeCreator\obj\Debug\BadgeCreator.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\badgeCreator\obj\Debug\BadgeCreator.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\ControleHorasTrabalhadas\badgeCreator\obj\Debug\BadgeCreator.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\badgeCreator\bin\Debug\Resources\anonimato.jpg
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\badgeCreator\bin\Debug\BadgeCreator.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\badgeCreator\bin\Debug\BadgeCreator.pdb
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\badgeCreator\obj\Debug\BadgeCreator.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\badgeCreator\obj\Debug\br.corp.bonus630.ControleHorasTrabalhadas.badgeCreator.Imagens.resources
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\badgeCreator\obj\Debug\BadgeCreator.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\badgeCreator\obj\Debug\BadgeCreator.dll
+C:\Users\Reginaldo\Documents\Project C#\ControleHorasTrabalhadas\badgeCreator\obj\Debug\BadgeCreator.pdb
