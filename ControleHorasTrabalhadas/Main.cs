@@ -129,7 +129,7 @@ namespace br.corp.bonus630.ControleHorasTrabalhadas
                     //worker = dbControl.getWorker(workerId);
                     try
                     {
-                        worker = workers.Single(r => r.Id == workerId);
+                        worker = workers.Single(r => r.Id == workerId && r.Active);
                     }
                     catch
                     {
